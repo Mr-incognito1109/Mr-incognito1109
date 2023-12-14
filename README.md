@@ -1,4 +1,4 @@
-[![Masterhead](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)]
+![Masterhead](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
 
 <h1 align="center">Hi 👋, I'm Pratik Shukla</h1>
 <h3 align="center">A passionate programmer from India</h3>
