@@ -13,6 +13,5 @@
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=mr-incognito1109&theme=redical)
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-incognito1109&label=Profile%20views&color=0e75b6&style=flat" alt="mr-incognito1109" /> </p>
