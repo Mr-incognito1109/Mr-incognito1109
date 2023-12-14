@@ -2,7 +2,7 @@
 <img src="https://github.com/Mr-incognito1109/Mr-incognito1109/assets/79405008/b37cda1f-8b88-45c2-8706-fca5c4d2042b" alt="selenium" width="200" height="200"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Pratik Shukla</h2>
+<h2 align="center"><img src="https://github.com/Mr-incognito1109/Mr-incognito1109/assets/79405008/7d2d9f0f-aaf2-4892-90ff-b5912a31f92d" width="30"> Hey! Nice to see you.</h2>
 <h4 align="center">A passionate programmer from India</h4>
 
 <br>
