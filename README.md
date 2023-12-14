@@ -9,8 +9,8 @@
 
 <br>
 
-| ![](https://github-readme-stats.vercel.app/api?username=mr-incognito1109&theme=radical&show_icons=true&hide_border=false&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-incognito1109&theme=radical&show_icons=true&hide_border=false&layout=compact)|
-|-|-|
+| ![](https://github-readme-stats.vercel.app/api?username=mr-incognito1109&theme=radical&show_icons=true&hide_border=false&count_private=true)| ![mr-incognito1109's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-incognito1109&theme=radical&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-incognito1109&theme=radical&show_icons=true&hide_border=false&layout=compact)|
+|-|-|-|
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-incognito1109&label=Profile%20views&color=0e75b6&style=flat" alt="mr-incognito1109" /> </p>
