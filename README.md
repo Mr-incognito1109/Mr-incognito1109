@@ -1,7 +1,7 @@
 ![Masterhead](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
 
-<h1 align="center">Hi 👋, I'm Pratik Shukla</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h2 align="center">Hi 👋, I'm Pratik Shukla</h2>
+<h4 align="center">A passionate programmer from India</h4>
 
 <br>
 
@@ -9,9 +9,4 @@
 
 
 <br>
-  |![](https://github-readme-stats.vercel.app/api?username=mr-incognito1109&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&include_all_commits=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-incognito1109&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-![](https://activity-graph.herokuapp.com/graph?username=mr-incognito1109&theme=redical)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-incognito1109&label=Profile%20views&color=0e75b6&style=flat" alt="mr-incognito1109" /> </p>
