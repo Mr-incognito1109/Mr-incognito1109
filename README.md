@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Mr-incognito1109/Mr-incognito1109/assets/79405008/1d81387a-76b5-4be9-a59c-1dfa86d49d5b" alt="selenium" width="100" height="100" align="center" style="border-radius: 50%;"/>
+<img src="https://github.com/Mr-incognito1109/Mr-incognito1109/assets/79405008/b37cda1f-8b88-45c2-8706-fca5c4d2042b" alt="selenium" width="200" height="200"/>
 </div>
 
 <h2 align="center">Hi 👋, I'm Pratik Shukla</h2>
