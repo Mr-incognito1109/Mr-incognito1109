@@ -1,5 +1,4 @@
 ![Avatar](![profile](https://github.com/Mr-incognito1109/Mr-incognito1109/assets/79405008/1d81387a-76b5-4be9-a59c-1dfa86d49d5b)
-)
 
 <h2 align="center">Hi 👋, I'm Pratik Shukla</h2>
 <h4 align="center">A passionate programmer from India</h4>
